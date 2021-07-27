@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Berita App
-//
-//  Created by Mufti Ramdhani on 18/04/21.
-//
-
 import UIKit
 import SwiftUI
 
